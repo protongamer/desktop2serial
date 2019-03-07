@@ -7,5 +7,7 @@ You need to download SSD_13XX library of sumotoy right here: https://github.com/
 
 Tested on a Teensy 3.2
 
+Video of the test :
+
 
 [![Enjoy ;)](https://i.ytimg.com/vi/li_udtS5TPc/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDKzlzKaG0aaHnfaY77d03TRYFTfA)](https://www.youtube.com/watch?v=li_udtS5TPc&t=14s "Enjoy ;)")
